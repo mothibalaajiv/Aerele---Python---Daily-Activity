@@ -1,0 +1,7 @@
+Alice,HR,45000
+Bob,IT,70000
+Charlie,IT,62000
+David,Sales,52000
+Eva,HR,48000
+John,IT,75000
+Sophia,Sales,51000
