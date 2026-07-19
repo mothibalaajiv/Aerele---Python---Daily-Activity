@@ -26,6 +26,7 @@ def build_result(name: str, marks: List[int]) -> Dict:
     }
 
     return result
+    
 
 
 @log_function
