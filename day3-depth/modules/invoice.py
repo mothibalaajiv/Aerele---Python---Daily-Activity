@@ -5,5 +5,5 @@ from modules.status import Status
 class Invoice:
     invoice_id : int
     customer_name : str
-    total : float
+    total : int
     status : Status
